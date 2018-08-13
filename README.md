@@ -1,2 +1,2 @@
 # golang_trn
-training golang for leecode
+training golang for leetCode
